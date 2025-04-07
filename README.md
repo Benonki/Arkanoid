@@ -1,6 +1,6 @@
 # Arkanoid
 
-A Java implementation of the classic Arkanoid game.
+A classic Arkanoid-style game developed in Java using libGDX, featuring responsive paddle controls, dynamic ball physics and multiple levels for an engaging retro gaming experience.
 
 ## Requirements
 
