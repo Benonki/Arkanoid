@@ -21,7 +21,7 @@ A classic Arkanoid-style game developed in Java using libGDX, featuring responsi
 2. Right-click on the `DesktopLauncher` class file.
 3. Select `Run 'DesktopLauncher.main()'`.
 
-## Showcase
+## 🖼️ Showcase
 
 <div align="center">
   <img src="https://github.com/Benonki/Portfolio/blob/main/StronaGlowna/sc/arkanoid.png" alt="Preview of My Project">
